@@ -203,6 +203,12 @@ const Index = () => {
           }
         />
       </CardContainer>
+      <Notice>
+        Note: To use the app install the{' '}
+        <a href="https://metamask.io/flask/" target="_blank">
+          Metamask Flask extension.
+        </a>
+      </Notice>
     </Container>
   );
 };
