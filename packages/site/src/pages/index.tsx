@@ -129,10 +129,10 @@ const Index = () => {
   return (
     <Container>
       <Heading>
-        Welcome to <Span>template-snap</Span>
+        Welcome to the <Span>Push Protocol Snap</Span>.
       </Heading>
       <Subtitle>
-        Get started by editing <code>src/index.ts</code>
+        View your notifications across web3 apps by clicking the buttons below!
       </Subtitle>
       <CardContainer>
         {state.error && (
@@ -202,14 +202,6 @@ const Index = () => {
             !shouldDisplayReconnectButton(state.installedSnap)
           }
         />
-        <Notice>
-          <p>
-            Please note that the <b>snap.manifest.json</b> and{' '}
-            <b>package.json</b> must be located in the server root directory and
-            the bundle must be hosted at the location specified by the location
-            field.
-          </p>
-        </Notice>
       </CardContainer>
     </Container>
   );

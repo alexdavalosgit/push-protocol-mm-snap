@@ -89,13 +89,13 @@ export const ReconnectButton = (props: ComponentProps<typeof Button>) => {
   return (
     <Button {...props}>
       <FlaskFox />
-      <ButtonText>Reconnect</ButtonText>
+      <ButtonText>Connect</ButtonText>
     </Button>
   );
 };
 
 export const SendHelloButton = (props: ComponentProps<typeof Button>) => {
-  return <Button {...props}>Send message</Button>;
+  return <Button {...props}>View notifications</Button>;
 };
 
 export const HeaderButtons = ({
