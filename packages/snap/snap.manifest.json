@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A MetaMask Snap that displays a user's Push Protocol notifications.",
   "proposedName": "Push Protocol MetaMask Snap",
   "repository": {

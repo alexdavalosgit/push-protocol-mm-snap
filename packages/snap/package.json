@@ -1,11 +1,11 @@
 {
   "name": "push-protocol-mm-snap",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.1.1",
+  "private": false,
   "description": "A MetaMask Snap that displays a user's Push Protocol notifications.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MetaMask/template-snap-monorepo.git"
+    "url": "https://github.com/alexdavalosgit/push-protocol-mm-snap.git"
   },
   "license": "(MIT-0 OR Apache-2.0)",
   "main": "src/index.ts",
