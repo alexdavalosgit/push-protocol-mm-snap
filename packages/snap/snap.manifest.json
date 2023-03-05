@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A MetaMask Snap that displays a user's Push Protocol notifications.",
   "proposedName": "Push Protocol MetaMask Snap",
   "repository": {
@@ -7,12 +7,12 @@
     "url": "https://github.com/alexdavalosgit/push-protocol-mm-snap.git"
   },
   "source": {
-    "shasum": "5nyrMkOlO/S//9DIeYDAd1ELjz+RFTm4CizftBmxVnY=",
+    "shasum": "TfEl602htl1QAwAb6RYnmTxRXJXWpIe/0IqdK96cUGg=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
         "iconPath": "images/icon.svg",
-        "packageName": "snap",
+        "packageName": "push-protocol-mm-snap",
         "registry": "https://registry.npmjs.org/"
       }
     }
