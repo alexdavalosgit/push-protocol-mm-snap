@@ -2364,6 +2364,7 @@ __metadata:
     eslint-plugin-prettier: ^4.2.1
     prettier: ^2.2.1
     prettier-plugin-packagejson: ^2.2.18
+    push-protocol-mm-snap: "workspace:^"
     typescript: ^4.7.4
   languageName: unknown
   linkType: soft
@@ -13650,7 +13651,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"push-protocol-mm-snap@workspace:packages/snap":
+"push-protocol-mm-snap@workspace:^, push-protocol-mm-snap@workspace:packages/snap":
   version: 0.0.0-use.local
   resolution: "push-protocol-mm-snap@workspace:packages/snap"
   dependencies:
